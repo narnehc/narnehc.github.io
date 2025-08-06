@@ -3,7 +3,7 @@
 title: 陈 燃
 
 # Name pronunciation (optional)
-name_pronunciation: chen ran
+name_pronunciation: chén rán
 
 # Full name (for SEO)
 first_name: Ran
@@ -24,7 +24,7 @@ role: M.S.
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: USTB
+  - name: University of Science and Technology Beijing
     url: https://www.ustb.edu.cn
 
 # Social network links

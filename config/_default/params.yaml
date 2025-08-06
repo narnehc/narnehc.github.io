@@ -37,6 +37,7 @@ header:
     show_theme_chooser: true
     logo:
       text: "陈 燃"
+      filename: "icon.png"
 
 # Site footer
 footer:
