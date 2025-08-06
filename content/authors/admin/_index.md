@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 陈燃
+title: 陈 燃
 
 # Name pronunciation (optional)
-name_pronunciation: ran chen
+name_pronunciation: chen ran
 
 # Full name (for SEO)
 first_name: Ran
@@ -11,7 +11,7 @@ last_name: Chen
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 👋
 
 # Is this the primary user of the site?
 superuser: true
